@@ -1,0 +1,6 @@
+gender,partner,internet_service,online_security,monthly_charge,tenure,churn
+1,1,3,0,95,4,Churn
+0,0,2,1,55,30,Tidak Churn
+1,1,1,0,25,40,Tidak Churn
+0,0,2,1,60,25,Tidak Churn
+1,0,3,0,100,3,Churn
